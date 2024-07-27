@@ -1,0 +1,33 @@
+
+.table thead th {
+    background-color: #35DFCD;
+    color: white;
+}
+.table tbody tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+.table tbody tr:hover {
+    background-color: #ddd;
+}
+.btn-small {
+    padding: 0.2rem 0.5rem;
+    font-size: 0.875rem;
+}
+     
+.col-3{
+    background-color: palegoldenrod;
+}
+  
+.text-center{
+    background-color: black;
+}
+
+.col-9 {
+
+    margin-top: 0px;
+}
+
+.col-4{
+    background-color: palegoldenrod;
+}
+
